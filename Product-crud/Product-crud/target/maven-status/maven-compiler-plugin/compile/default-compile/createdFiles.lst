@@ -1,0 +1,8 @@
+com\backend\product\ProductCrudApplication.class
+com\backend\product\service\impl\ProductServiceImpl.class
+com\backend\product\advice\ExecutionTimeTrackerAdvice.class
+com\backend\product\service\ProductService.class
+com\backend\product\repo\ProductRepo.class
+com\backend\product\models\Product.class
+com\backend\product\controller\ProductController.class
+com\backend\product\advice\TrackExecutionTime.class
